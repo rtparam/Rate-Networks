@@ -1,4 +1,7 @@
-# Rate-Networks
+# Theoretical Neuroscience
+
+Computational neuroscience I did in my course on Theoretical Neuroscience (WS 22/23). 
+
 
 Model of rate networks depicting interaction of neuron populations via spike rates. Neuron population states are described by activation levels ($x_i(t)$ for population $i$).
 Spike rate for this activation level is $r_i(t) = f(x_i(t))$. $f(x) = tanh(x)$ is the nonlinear transfer function. Weight function $W_{ij}$ determines impact of spike rate on population $j$ by $i$ and is modelled by a Gaussian. 
