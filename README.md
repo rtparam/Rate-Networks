@@ -1,0 +1,2 @@
+# Rate-Networks
+Computational neuroscience
